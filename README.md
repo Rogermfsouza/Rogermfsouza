@@ -14,8 +14,8 @@ Atualmente aprendendo:
 <hr />
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Rogermfsouza&show_icons=true&theme=aura"/>]
-![Snake animation](https://github.com/Rogermfsouza/Rogermfsouza/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=Rogermfsouza&show_icons=true&theme=aura"/>
 <!--
+![Snake animation](https://github.com/Rogermfsouza/Rogermfsouza/blob/output/github-contribution-grid-snake.svg)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogermfsouza&layout=compact&custom_title=Linguagens_mais_usadas"/>
 -->
