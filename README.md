@@ -1,17 +1,36 @@
-<h1> Hi There! 👋</h1>
-<hr />
-Estudante de informática 💻 <br>
-Busco vagas de estágio na área de front-end ou back-end 🔍  <br>
-Sempre procurando aprimorar meus conhecimentos 📚  <br>
-Atualmente aprendendo:
-<h1>°</h1><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Roger Max</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-<h1>°</h1><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+- 🔥 Desenvolvedor Full Stack | Python | C++ | JavaScript | React | Estudante de TI e Pentest
 
-<h1>°</h1><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+- 🔭 Busco vagas de estágio na área de front-end ou back-end 🔍
 
-<h1>°</h1><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<hr />
+- 👨‍💻 Sempre procurando aprimorar meus conhecimentos 📚
+
+-⚡ Conhecimento: <br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+- 💬 Atualmente aprendendo:
+
+
+
+
+<br><br>
+
+## Contact
+
+<a href="https://www.linkedin.com/in/roger-max-283182235/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Rogermfsouza&show_icons=true&theme=aura"/>
