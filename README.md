@@ -28,7 +28,7 @@
 ## Contact
 
 <a href="https://www.linkedin.com/in/roger-max-283182235/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Roger-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 
