@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Roger Max</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rogermfsouza&color=purple" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rogermfsouza&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Full Stack | Python | C++ | JavaScript | React | Estudante de TI e Pentest
 
